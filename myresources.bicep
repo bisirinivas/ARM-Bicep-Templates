@@ -1,5 +1,9 @@
-param storageaccountvasu string = 'stokkk'
-param location  string = 'East Us'
+
+
+param storageaccountvasu string = 'stostosto'
+@description('Location only East us')
+@allowed(['East US'])
+param location  string = 'East US'
 param skuName string = 'Standard_LRS'
 param kind string = 'StorageV2'
 

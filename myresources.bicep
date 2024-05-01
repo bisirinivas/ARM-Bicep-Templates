@@ -1,5 +1,5 @@
 
-
+var abae =uniqueString()
 param storageaccountvasu string = 'stostosto'
 @description('Location only East us')
 @allowed(['East US'])

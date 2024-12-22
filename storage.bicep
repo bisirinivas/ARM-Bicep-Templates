@@ -10,3 +10,11 @@ resource abhioshekveeramalla1122 'Microsoft.Storage/storageAccounts@2023-01-01' 
     tier: 'Premium'
   }
 }
+
+
+resource virtal 'Microsoft.ScVmm/virtualMachines@2023-04-01-preview' ={
+ r
+
+}
+}
+
